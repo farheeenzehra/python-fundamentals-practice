@@ -1,0 +1,11 @@
+student_name = input("Enter your official name: ")
+roll_number = input("Enter your roll number: ")
+department = input("Enter your department: ")
+university = input("Enter your university: ")
+
+print("\n========== STUDENT ID CARD ==========")
+print("Student Name :", student_name)
+print("Roll Number  :", roll_number)
+print("Department   :", department)
+print("University   :", university)
+print("=====================================")
