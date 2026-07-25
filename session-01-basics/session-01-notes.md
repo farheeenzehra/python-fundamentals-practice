@@ -16,7 +16,7 @@
 - Student Information System
 
 ## Key Learnings
-- Every Python program follows a simple flow: input → process → output.
+- Every Python program follows a simple flow: input - process - output.
 - Variables help store information that can be used later in the program.
 - Using meaningful variable names makes code easier to understand.
 - Writing programs on my own helped me become more confident.
